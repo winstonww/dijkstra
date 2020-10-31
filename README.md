@@ -1,3 +1,3 @@
 # dijkstra
-Python Heap Implementation of Dijkstra
+Python Heap Implementation of Dijkstra.
 Tests to be added.
